@@ -6,3 +6,7 @@ These fonts tested with Jasper Report `Version 6.15` and later version.
 
 # Font
  - Pyidaungsu 2.5.3 copyright by MCF 
+
+# How to Use
+
+See Sample Project : 
