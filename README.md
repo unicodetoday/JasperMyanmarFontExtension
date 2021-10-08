@@ -9,4 +9,4 @@ These fonts tested with Jasper Report `Version 6.15` and later version.
 
 ## How to Use
 
-See Sample Project : https://github.com/suntungithub/JasperMyanmarSample
+See Sample Project : https://github.com/unicodetoday/JasperMyanmarSample
